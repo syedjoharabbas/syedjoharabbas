@@ -1,7 +1,5 @@
 # 👨‍💻 Syed Johar Abbas
 
-![Profile Banner](https://raw.githubusercontent.com/saadeghi/banner/main/github-banner.png)
-
 ## 🛠️ Software Engineer | .NET & Cloud Enthusiast | DevOps Advocate
 
 ---
