@@ -25,7 +25,6 @@ Hello! I'm Syed Johar Abbas, a passionate Software Engineer with a robust backgr
 
 - **DevOps & Cloud:**  
   ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
   ![CI/CD](https://img.shields.io/badge/-CI/CD-006400?style=flat)
