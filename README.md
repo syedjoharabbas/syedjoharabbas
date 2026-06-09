@@ -2,21 +2,36 @@
 
 # Syed Johar Abbas
 
-**Full Stack Software Engineer**
+### Full Stack .NET Engineer
 
-*Building complete products — from database to UI — with clean architecture and modern tooling*
+*Production software, end to end — clean architecture, modern tooling, and AI where it earns its place.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joharabbas/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/syedjoharabbas)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-profile)
+<!-- Replace YOUR_ID with your Stack Overflow user id, or delete this badge if you don't use one -->
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26671793/johar-abbas)
 
 </div>
 
 ---
 
-I'm a full stack engineer with deep roots in .NET and a background shipping production software across enterprise, commercial, and government projects. I work across the entire stack — from schema design to polished UI — and integrate intelligent tooling where it genuinely adds value.
+I'm a full stack engineer with deep roots in .NET, shipping production software across enterprise, commercial, and government projects. I own the whole stack — schema to UI — and bring in intelligent tooling only where it genuinely earns its place.
 
----
+## What I Work On
+
+**Full Stack .NET Applications** — End-to-end builds in C# and .NET with Angular or Blazor on top. Clean architecture, DDD, CQRS, and event sourcing — the patterns that keep large codebases maintainable as teams and requirements grow.
+
+**Government & Enterprise Systems** — Work where reliability, security, and compliance aren't optional: strict data handling, audit trails, role-based access, and software that holds up in production, not just in dev.
+
+**Cross-Platform Apps with .NET MAUI** — Native iOS, Android, Windows, and macOS from a single codebase — shared business logic, platform-specific polish, real device performance.
+
+**Real-Time & Event-Driven Systems** — SignalR for live, collaborative features; event-driven microservices on Azure Service Bus and Event Grid; async-first architecture built for load.
+
+**Backend Services & APIs** — REST and gRPC APIs designed to scale, containerized with Docker, orchestrated on Kubernetes, and shipped through Azure Container Apps or AKS with CI/CD in Azure DevOps and GitHub Actions.
+
+**Data & Persistence** — Complex SQL Server and Oracle schemas, EF Core for clean data access, Redis for caching, and Cosmos DB when the model calls for it.
+
+**Intelligent Features & Agents** — LLM capabilities in production .NET via Semantic Kernel (plugins, planners, memory, prompt pipelines), multi-agent workflows with AutoGen now consolidating onto the Microsoft Agent Framework, and RAG over enterprise document stores with Azure AI Search.
 
 ## Tech Stack
 
@@ -51,44 +66,13 @@ I'm a full stack engineer with deep roots in .NET and a background shipping prod
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Azure Container Apps](https://img.shields.io/badge/Container_Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 **AI & Intelligent Tooling**
 ![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=flat-square&logo=microsoft&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-512BD4?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft_Agent_Framework-512BD4?style=flat-square&logo=microsoft&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=openai&logoColor=white)
-![Azure AI Agent Service](https://img.shields.io/badge/Azure_AI_Agent_Service-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![ML.NET](https://img.shields.io/badge/ML.NET-239120?style=flat-square&logo=dotnet&logoColor=white)
-![Azure AI Services](https://img.shields.io/badge/Azure_AI_Services-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
----
-
-## What I Work On
-
-**Full Stack .NET Applications**
-End-to-end development with C# and .NET, paired with Angular or Blazor on the frontend. Clean architecture, domain-driven design, CQRS, and event sourcing — patterns that keep large codebases maintainable as teams and requirements grow.
-
-**Government & Enterprise Systems**
-I've worked on systems for government clients where reliability, security, and compliance aren't optional. That means strict data handling, audit trails, role-based access, and software that holds up under scrutiny — not just in development, but in production.
-
-**Cross-Platform Apps with .NET MAUI**
-Native iOS, Android, Windows, and macOS apps from a single .NET codebase. Shared business logic, platform-specific polish, and real device performance — without leaving the .NET ecosystem.
-
-**Real-Time & Event-Driven Systems**
-SignalR for live data and collaborative features. Event-driven microservices with Azure Service Bus and Event Grid. Async-first architecture that handles load without breaking a sweat.
-
-**Backend Services & APIs**
-RESTful and gRPC APIs designed for scale. Microservices containerized with Docker, orchestrated with Kubernetes, and deployed via Azure Container Apps or AKS — with CI/CD through Azure DevOps and GitHub Actions.
-
-**Data & Persistence**
-Complex SQL Server and Oracle schemas, EF Core for clean data access, Redis for caching, and Cosmos DB when the data model calls for it.
-
-**Intelligent Features & Agent Systems**
-Integrating LLM capabilities into production .NET apps using Semantic Kernel for orchestration — plugins, planners, memory, and prompt pipelines. Agent-based workflows with AutoGen and Azure AI Agent Service. RAG pipelines over enterprise document stores with Azure AI Search.
-
----
 
 ## Architecture Principles
 
@@ -99,18 +83,20 @@ Integrating LLM capabilities into production .NET apps using Semantic Kernel for
 - **Observability** — OpenTelemetry, structured logging, distributed tracing, and meaningful alerts
 - **Infrastructure as Code** — Terraform and Bicep so environments are reproducible and reviewable
 
----
-
 ## Currently Exploring
 
-- .NET 10 and C# 14 — Native AOT improvements and new runtime performance gains
-- .NET Aspire — the new application host for cloud-native .NET development
-- Semantic Kernel Agent Framework — multi-agent orchestration and the SK process framework
-- AutoGen v0.4 — the new async, event-driven agent runtime
-- MCP server development in .NET — building custom tool servers that agents can call
-- Azure AI Foundry — model evaluation pipelines and fine-tuning workflows
+- **.NET 11 previews** — the next runtime and language wave, building on .NET 10's Native AOT and performance gains
+- **.NET Aspire** — orchestrating cloud-native .NET locally and in the cloud
+- **Microsoft Agent Framework 1.0** — the converged successor to Semantic Kernel and AutoGen, with native MCP and A2A support
+- **MCP servers in .NET** — building custom tool servers that agents can call
+- **Azure AI Foundry** — model evaluation and fine-tuning pipelines
 
----
+<!-- Optional: pin a few repos here so visitors see your work first. Fill these in or delete the block.
+## Selected Work
+
+- **[Project Name](https://github.com/syedjoharabbas/your-repo)** — one line on what it does and the stack behind it.
+- **[Project Name](https://github.com/syedjoharabbas/your-repo)** — one line on what it does and the stack behind it.
+-->
 
 ## GitHub Stats
 
@@ -127,5 +113,7 @@ Integrating LLM capabilities into production .NET apps using Semantic Kernel for
 <div align="center">
 
 *Always happy to talk .NET, architecture, agents, or building full products from scratch.*
+
+**[Let's connect →](https://www.linkedin.com/in/joharabbas/)**
 
 </div>
