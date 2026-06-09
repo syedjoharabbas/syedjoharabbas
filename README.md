@@ -116,7 +116,7 @@ Integrating LLM capabilities into production .NET apps using Semantic Kernel for
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedjoharabbas&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=86400)](https://github.com/syedjoharabbas)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedjoharabbas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=86400)](https://github.com/syedjoharabbas)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedjoharabbas&theme=github_dark)](https://github.com/syedjoharabbas)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=syedjoharabbas&theme=github-dark-blue&hide_border=true&background=0d1117)](https://github.com/syedjoharabbas)
 
