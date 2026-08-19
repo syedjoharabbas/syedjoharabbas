@@ -108,8 +108,6 @@ Microsoft Certified: Azure Fundamentals (AZ-900) · C# · Angular · SQL
 
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedjoharabbas&theme=github_dark)](https://github.com/syedjoharabbas)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=syedjoharabbas&theme=github-dark-blue&hide_border=true&background=0d1117)](https://github.com/syedjoharabbas)
-
 </div>
 
 ---
